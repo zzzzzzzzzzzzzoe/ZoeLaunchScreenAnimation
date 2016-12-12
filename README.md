@@ -3,3 +3,6 @@
 ![](https://img.shields.io/badge/Title-ZoeLaunchScreenAnimation-7f62b4.svg)
 ## 关键词
 **Logo**、**启动页**、**Logo变大**、**启动页Logo渐变**
+## 演示图
+![](https://github.com/zzzzzzzzzzzzzoe/ZoeLaunchScreenAnimation/blob/master/gifFile/logo.gif)
+
