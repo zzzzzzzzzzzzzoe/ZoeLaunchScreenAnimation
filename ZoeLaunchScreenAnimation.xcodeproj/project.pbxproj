@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0451FE941DF814670021D648 /* nike.png in Resources */ = {isa = PBXBuildFile; fileRef = 0451FE931DF814670021D648 /* nike.png */; };
 		04FC26901DF6C70800CBDBFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FC268F1DF6C70800CBDBFF /* AppDelegate.swift */; };
 		04FC26921DF6C70800CBDBFF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FC26911DF6C70800CBDBFF /* ViewController.swift */; };
 		04FC26951DF6C70800CBDBFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FC26931DF6C70800CBDBFF /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0451FE931DF814670021D648 /* nike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nike.png; sourceTree = "<group>"; };
 		04FC268C1DF6C70800CBDBFF /* ZoeLaunchScreenAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZoeLaunchScreenAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04FC268F1DF6C70800CBDBFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04FC26911DF6C70800CBDBFF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		04FC268E1DF6C70800CBDBFF /* ZoeLaunchScreenAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				0451FE931DF814670021D648 /* nike.png */,
 				04FC268F1DF6C70800CBDBFF /* AppDelegate.swift */,
 				04FC26911DF6C70800CBDBFF /* ViewController.swift */,
 				04FC26931DF6C70800CBDBFF /* Main.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				04FC269A1DF6C70800CBDBFF /* LaunchScreen.storyboard in Resources */,
 				04FC26971DF6C70800CBDBFF /* Assets.xcassets in Resources */,
+				0451FE941DF814670021D648 /* nike.png in Resources */,
 				04FC26951DF6C70800CBDBFF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -503,6 +507,7 @@
 				04FC26B61DF6C70900CBDBFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04FC26B71DF6C70900CBDBFF /* Build configuration list for PBXNativeTarget "ZoeLaunchScreenAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +516,7 @@
 				04FC26B91DF6C70900CBDBFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04FC26BA1DF6C70900CBDBFF /* Build configuration list for PBXNativeTarget "ZoeLaunchScreenAnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +525,7 @@
 				04FC26BC1DF6C70900CBDBFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
